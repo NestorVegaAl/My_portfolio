@@ -1,7 +1,7 @@
 # My_portfolio
 Este es mi portafolio, actualmente tiene un código en python elaborado en google colab. 
 
-## Autor - 
+## Autor  
 Nestor Alberto Vega Alvarez
 
 *[LinkeIn](www.linkedin.com/in/nestor-vega-alvarez-a28875115)
